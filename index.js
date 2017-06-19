@@ -6,7 +6,7 @@
     for (let i = 0; i < rows; i++){
       grid.push([]);
       for (let j = 1; j <= columns; j++){
-        grid[i].push([]);
+        grid[i].push(j);
       }
     }
     return grid;

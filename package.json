@@ -1,0 +1,14 @@
+{
+  "name": "2d_matrix",
+  "version": "1.0.0",
+  "description": "Create 2D Matrix",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "callenge"
+  ],
+  "author": "Ian Bovard",
+  "license": "ISC"
+}
